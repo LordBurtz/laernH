@@ -28,4 +28,37 @@ Developed @ One Month in NYC
 =02 LAYOUT 
 -----------------------------------------------------------------------------*/
 
+.container {
+     width: 60%;
+     background-color: gray;
+     margin: 0 auto;
+}
+
+.header {
+     padding: 50px;
+     background-color: brown;
+}
+
+.main {
+     width: 70%;
+     padding: 50px;
+     background-color: aquamarine;
+     float: left;
+}
+
+.kitten-img {
+     padding: 10px;
+     float: right;
+}
+
+.footer {
+     padding: 50px;
+     background-color: goldenrod;
+}
+
+.sidebar {
+     width: 30%;
+     float: left;
+     padding: 50px;
+}
 
